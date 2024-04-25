@@ -1,0 +1,11 @@
+Diagrama de despliegue
+El buscador es una aplicación que estaría en un nodo (la computadora del cliente)
+
+Diagrama de actividades
+Está bien
+
+Diagrama de clases
+Faltaría utilizar la notación correcta, entre persona, administrador, cliente hay una relación de herencia.
+
+Diagrama de componentes
+Está bien pero se puede añadir más detalle
